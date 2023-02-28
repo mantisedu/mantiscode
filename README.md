@@ -50,4 +50,5 @@ Figure 4: Robot Starter Program
 After the program successfully connects to the Motor Hat, the LED's will change from Green to Blue.  At this point, you can use the up, down, left and right arrows to control the robot. Figure 5 illustrates this process from end to end.
 
 ![This is an image](https://raw.githubusercontent.com/mantisedu/mantiscode/main/docs/images/end2end.gif)
+
 Figure 5: End to End Process
