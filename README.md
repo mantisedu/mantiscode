@@ -23,13 +23,15 @@ To download the macOS installer, please visit this link, https://mantisedu.io/do
 1. Follow the prompt and drag the DMG into the application folder.
 2. Open the MantisCode app from the Applications Folder, or by using Finder.
 
-If you receive an the Error "The Application "MantisEdu" Can't be opened as in Figure 1:, please follow the steps below under macOS Permissions..
+If you receive an the Error "The Application "MantisEdu" Can't be opened as in Figure 1:, please follow the steps below under macOS Permissions.
+
 ![This is an image](https://raw.githubusercontent.com/mantisedu/mantiscode/main/docs/images/error.png)
 Figure 1: Error Screen
 
 ### macOS Permissions
 
 Open your finder app, and search for Security & Privacy.  By default, macOS does not allow apps to run from unknow publishers.   Figure 2 show the default settings.
+
 ![This is an image](https://raw.githubusercontent.com/mantisedu/mantiscode/main/docs/images/security1.png)
 Figure 2: Default Security Settings
 In order to allow the app to run do the following:
