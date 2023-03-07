@@ -26,6 +26,7 @@ To download the macOS installer, please visit this link, https://mantisedu.io/do
 If you receive an the Error "The Application "MantisEdu" Can't be opened as in Figure 1:, please follow the steps below under macOS Permissions.
 
 ![This is an image](https://raw.githubusercontent.com/mantisedu/mantiscode/main/docs/images/error.png)
+
 Figure 1: Error Screen
 
 ### macOS Permissions
@@ -33,6 +34,7 @@ Figure 1: Error Screen
 Open your finder app, and search for Security & Privacy.  By default, macOS does not allow apps to run from unknow publishers.   Figure 2 show the default settings.
 
 ![This is an image](https://raw.githubusercontent.com/mantisedu/mantiscode/main/docs/images/security1.png)
+
 Figure 2: Default Security Settings
 In order to allow the app to run do the following:
 
@@ -43,6 +45,7 @@ In order to allow the app to run do the following:
  5. Select the Anywhere option 
 
 ![This is an image](https://raw.githubusercontent.com/mantisedu/mantiscode/main/docs/images/EnableApps.gif)
+
 Figure 3: Enable App Workflow
 
 After completing this step, Figure 4 illustrates the approprate configuration.
@@ -62,6 +65,7 @@ Now that apps are allowed, you can install the app.
 *Please note that steps 1 through 5 only have to run once.  In the future, you can simiply open the terminal from the MacOS folder and run "sh MantisScratchConnector.sh" to open the program.
 
 ![This is an image](https://raw.githubusercontent.com/mantisedu/mantiscode/main/docs/images/permissions.gif)
+
 Figure 5: Open App from Terminal
 
 
