@@ -1,0 +1,8 @@
+https://1drv.ms/u/s!AlaSrPjLx38VjqN7WOc87uw_ZDievQ?e=Le3xGo
+
+sudo spctl --master-disable
+
+chmod -R 755 jre1.8.0_172   
+
+sh MantisScratchConnector.sh
+

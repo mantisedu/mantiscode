@@ -68,6 +68,7 @@ Now that apps are allowed, you can install the app.
 
 Figure 5: Open App from Terminal
 
+For more detailed instructions on how to add an app exception, please visit the Apple [website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/13.0/mac/13.0) and select your operating system from the dropdown.  Following these steps will allow for you to be able to run MantisCode from the desktop icon, vs having to type the terminal commands. 
 
 # Running Mantis Code
 After completing these steps, MantisCode has been installed.  Makes sure your dongle is plugged into and open USB port, and open MantisCode from the location you chose during the install process.
