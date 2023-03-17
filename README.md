@@ -59,7 +59,7 @@ Now that apps are allowed, you can install the app.
  2. Drag MantisEDU icon into the applicaitons folder
  3. Right click on the MantisEDU icon from the applicaiton folder and select "Show Package Contents"
  4. Right click and select Open a terminal from the MacOS folder
- 5. Run this command "chmod -R 755 jre1.8.0_172" and press enter
+ 5. Run this command "chmod -R 755 *" and press enter
  6. Run this command "sh MantisScratchConnector.sh" to launch the program
 
 *Please note that steps 1 through 5 only have to run once.  In the future, you can simiply open the terminal from the MacOS folder and run "sh MantisScratchConnector.sh" to open the program.
