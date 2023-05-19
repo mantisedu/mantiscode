@@ -11,7 +11,7 @@ In order to use MantisCode, you will need to have access to a Bluegiga BLED112 B
 Below you'll find the necessary files to install on both Windows and MAC Operating Systems.
 
 ## Windows OS Installer
-To download the windows installer, please visit this link, https://mantisedu.io/downloads/MantisCode-v3.3.0.95.msi
+To download the windows installer, please visit this link, https://mantisedu.io/downloads/MantisCode-v3.3.0.97.msi
 After downloading the MSI follow these steps to run the application.
 
 1. Click the MSI file
@@ -19,7 +19,7 @@ After downloading the MSI follow these steps to run the application.
 3. MantisCode will now be available under programs.
 
 ## macOS Installer
-To download the macOS installer, please visit this link, https://mantisedu.io/downloads/MantisCode-v3.3.0.95.dmg
+To download the macOS installer, please visit this link, https://mantisedu.io/downloads/MantisCode-v3.3.0.97.dmg
 
  1. Click on the DMG file you downloaded 
  2. Drag MantisEDU icon into the applications folder
@@ -35,7 +35,7 @@ Figure 1: Installing DMG and applying permissions.
 If the app does not load, follow the steps in macOS permissions to add a security exception.
 
 ### macOS Permissions
-1.  In the Finder  on your Mac, locate the app you want to open. (Don’t use Launchpad to do this. Launchpad doesn’t allow you to access the shortcut menu.)
+1.  In the Finder  on your Mac, locate the app you want to open. (Donï¿½t use Launchpad to do this. Launchpad doesnï¿½t allow you to access the shortcut menu.)
 2.  Control-click the app icon, then choose Open from the shortcut menu.   
 3.  Click Open.
 
