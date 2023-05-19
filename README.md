@@ -35,7 +35,7 @@ Figure 1: Installing DMG and applying permissions.
 If the app does not load, follow the steps in macOS permissions to add a security exception.
 
 ### macOS Permissions
-1.  In the Finder  on your Mac, locate the app you want to open. (Don�t use Launchpad to do this. Launchpad doesn�t allow you to access the shortcut menu.)
+1.  In the Finder  on your Mac, locate the app you want to open. (Don't use Launchpad to do this. Launchpad doesn't allow you to access the shortcut menu.)
 2.  Control-click the app icon, then choose Open from the shortcut menu.   
 3.  Click Open.
 
